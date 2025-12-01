@@ -1,0 +1,225 @@
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+PING: Pong!
+PING: Pong!
+PING: Pong!
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+PING: server has been successfully pinged!
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+
+--- STARTUP ---
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+
+STARTUP
+DB URL: postgresql://postgres:123456@127.0.0.1:5433/masters_project
+DB Password: 123456
+DB CONNECTION TEST: SUCCESS (1)
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DB: get_db called
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+ENDPOINT: ENTERED list_vms
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
+DB: get_db called
+DEPS: get_current_user token=eyJhbGciOi...
